@@ -1,0 +1,14 @@
+#myHeader {
+  background-color: antiquewhite;
+  color: black;
+  size: 60px;
+  text-align: center;
+}
+
+.city{
+    background-color: aqua;
+    color: blue;
+    border: 4px solid black; 
+    margin: 20px;
+    padding: 20px; 
+  }
